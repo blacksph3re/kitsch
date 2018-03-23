@@ -4,7 +4,7 @@ This is a unification of two cooking apps, done by Anja, Hendrik and Nico. The p
 
 
 
-It consists of several repositories
+It consists of several repositories, thus when cloning use the recursive flag.
 
 * **[Loginservice](github.com/blacksph3re/loginservice)** Handling sign-on, login and basic user-related matters
 * **[Alastair](github.com/blacksph3re/alastair2)** A recipe db originally designed to facilitate price calculations for event-cooking
