@@ -4,3 +4,6 @@
 [submodule "alastair3"]
 	path = alastair3
 	url = git@github.com:blacksph3re/alastair3
+[submodule "kitsch-frontend"]
+	path = kitsch-frontend
+	url = git@github.com:t0m0ffel/kitsch-frontend.git
